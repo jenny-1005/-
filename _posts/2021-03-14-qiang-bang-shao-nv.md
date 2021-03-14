@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "强棒介绍"
-image: assets/images/https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/all/boxcnWLv8o3FjB7qRJVqp0hl6mh/?mount_node_token=doccnFzs7j5Giiyl5dv9aSd4phh&mount_point=doc_image
+image: assets/images/WEN08459.JPG
 featured: true
 ---
 
