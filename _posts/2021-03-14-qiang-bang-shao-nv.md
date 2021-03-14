@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "强棒介绍"
+title:  "强棒介绍1"
 image: assets/images/WEN08459.JPG
 featured: true
 ---
