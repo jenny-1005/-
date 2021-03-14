@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "海来金里-强棒少女的陪伴日记"
-image: assets/images/100.jpg
+image: assets/images/DSCF2076.JPG
 featured: true
 ---
 
 我是**海来金里**，出生于2012.8.17，我是2020年9月加入强棒基地的，我的老家在四川凉山州，我的外号"牛魔王"常年扎两个"牛角"辫，活泼蹦跶起来就像山中的精灵，喜欢看着你就笑，很容易忍不住就跟着她一起嬉皮起来。
 
-![1](../assets/images/hailaijinli.jpg）
+![1](../assets/images/hailaijinli.jpeg）
 
 > 平时的兴趣爱好
 >   1. 跳舞
