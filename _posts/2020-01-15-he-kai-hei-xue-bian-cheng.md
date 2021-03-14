@@ -1,10 +1,9 @@
 ---
 layout: post
-title:  "D29B7AF321F63B3A7ACE14261E1B8DF4.jpg"
+title:  "项目起源"
 image: assets/images/6.png
 featured: true
 ---
-
 
 ## 项目起源
 项目主要发起人孙岭峰：从 7 岁跟随“国宝级”教练张锦新学习棒球，与棒球相伴 30 余载。连续三届亚洲盗垒王，国家队第一棒、当家中外野手。棒球是他的生命。**他的成长经历证明了棒球可以改变人生。**
