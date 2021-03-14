@@ -2,6 +2,7 @@
 layout: post
 title:  "D29B7AF321F63B3A7ACE14261E1B8DF4.jpg"
 image: assets/images/6.png
+featured: true
 ---
 
 
