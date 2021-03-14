@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "海来金里-强棒少女的陪伴日记"
-image: assets/images/https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/all/boxcnALkGRI4SND6Fw1DhvoEese/?mount_node_token=doccnFzs7j5Giiyl5dv9aSd4phh&mount_point=doc_image
+title:  "强棒介绍"
+image: assets/images/WEN08459.jpg
 featured: true
 ---
 
